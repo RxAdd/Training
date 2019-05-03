@@ -17,11 +17,6 @@ namespace Caculator
             InitializeComponent();
         }
 
-        
-
-        
- 
-
         //List<string> tmp = new List<string>(); //存放單次數字
         Stack<string> my_operator = new Stack<string>(); // +-*/ 運算子
         Stack<string> my_operand = new Stack<string>(); // 1,2,3,4,5 運算元
@@ -33,102 +28,14 @@ namespace Caculator
 
         private void btn_0_Click(object sender, EventArgs e)
         {
+            Button bt;
+            bt = (Button)(sender);
             if (operatored == true)
             {
                 txb_result.Text = "";
                 operatored = false;
             }
-            txb_result.Text += "0";
-        }
-
-        private void btn_1_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "1";
-        }
-
-        private void btn_2_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "2";
-        }
-
-        private void btn_3_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "3";
-        }
-
-        private void btn_4_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "4";
-        }
-
-        private void btn_5_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "5";
-        }
-
-        private void btn_6_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "6";
-        }
-
-        private void btn_7_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "7";
-        }
-
-        private void btn_8_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "8";
-        }
-
-        private void btn_9_Click(object sender, EventArgs e)
-        {
-            if (operatored == true)
-            {
-                txb_result.Text = "";
-                operatored = false;
-            }
-            txb_result.Text += "9";
+            txb_result.Text += bt.Text;
         }
 
 
@@ -174,7 +81,6 @@ namespace Caculator
 
 
         }
-
         public void Caculate()
         {
             if (my_operator.Count > 0) //有運算符號
@@ -208,10 +114,6 @@ namespace Caculator
             }
 
         }
-
-
-
-
         private void equal_Click(object sender, EventArgs e)
         {
 
@@ -234,7 +136,7 @@ namespace Caculator
 
         private void btn_point_Click(object sender, EventArgs e)
         {
-
+            if (!txb_result.Text.Contains("."))
             txb_result.Text += ".";
         }
     }

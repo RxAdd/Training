@@ -7,3 +7,12 @@ D:\Project\Caculator\Caculator\bin\Debug\Caculator.exe
 D:\Project\Caculator\Caculator\bin\Debug\Caculator.pdb
 D:\Project\Caculator\Caculator\obj\Debug\Caculator.exe
 D:\Project\Caculator\Caculator\obj\Debug\Caculator.pdb
+D:\Repostiory\C# Training\Calculator\Caculator\bin\Debug\Caculator.exe.config
+D:\Repostiory\C# Training\Calculator\Caculator\obj\Debug\Caculator.exe
+D:\Repostiory\C# Training\Calculator\Caculator\obj\Debug\Caculator.pdb
+D:\Repostiory\C# Training\Calculator\Caculator\bin\Debug\Caculator.exe
+D:\Repostiory\C# Training\Calculator\Caculator\bin\Debug\Caculator.pdb
+D:\Repostiory\C# Training\Calculator\Caculator\obj\Debug\Caculator.csprojResolveAssemblyReference.cache
+D:\Repostiory\C# Training\Calculator\Caculator\obj\Debug\Caculator.Form1.resources
+D:\Repostiory\C# Training\Calculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\Repostiory\C# Training\Calculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.Cache
