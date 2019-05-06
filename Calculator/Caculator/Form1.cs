@@ -41,10 +41,11 @@ namespace Caculator
 
         private void btn_divide_Click(object sender, EventArgs e)
         {
-
+            Button bt;
+            bt = (Button)(sender);
             my_operand.Push(txb_result.Text);
             Caculate();
-            my_operator.Push("/");
+            my_operator.Push(bt.Text);
             operatored = true;
             //txb_result.Text = "/";
 
