@@ -23,10 +23,7 @@ namespace Caculator
         bool operatored = false;
 
 
-
-
-
-        private void btn_0_Click(object sender, EventArgs e)
+        private void btn_Num_Click(object sender, EventArgs e)
         {
             Button bt;
             bt = (Button)(sender);
@@ -38,8 +35,7 @@ namespace Caculator
             txb_result.Text += bt.Text;
         }
 
-
-        private void btn_divide_Click(object sender, EventArgs e)
+        private void btn_operator(object sender, EventArgs e)
         {
             Button bt;
             bt = (Button)(sender);
@@ -47,41 +43,8 @@ namespace Caculator
             Caculate();
             my_operator.Push(bt.Text);
             operatored = true;
-            //txb_result.Text = "/";
-
         }
-
-        private void btn_multiply_Click(object sender, EventArgs e)
-        {
-            my_operand.Push(txb_result.Text);
-            Caculate();
-            my_operator.Push("*");
-            operatored = true;
-            //txb_result.Text = "*";
-
-
-        }
-
-        private void btn_add_Click(object sender, EventArgs e)
-        {
-            my_operand.Push(txb_result.Text);
-            Caculate();
-            my_operator.Push("+");
-            operatored = true;
-            //txb_result.Text = "+";
-
-        }
-
-        private void btn_minus_Click(object sender, EventArgs e)
-        {
-            my_operand.Push(txb_result.Text);
-            Caculate();
-            my_operator.Push("-");
-            operatored = true;
-            //txb_result.Text = "-";
-
-
-        }
+        
         public void Caculate()
         {
             if (my_operator.Count > 0) //有運算符號
