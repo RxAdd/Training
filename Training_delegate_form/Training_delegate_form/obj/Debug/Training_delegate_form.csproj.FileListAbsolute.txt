@@ -1,0 +1,11 @@
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Training_delegate_form.exe.config
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Training_delegate_form.exe
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Training_delegate_form.pdb
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form3.resources
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form4.resources
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.Properties.Resources.resources
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.csproj.GenerateResource.Cache
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.exe
+D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.pdb
