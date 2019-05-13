@@ -9,3 +9,6 @@ D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Trainin
 D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.csproj.GenerateResource.Cache
 D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.exe
 D:\Project\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Training_delegate_form.pdb
+D:\Repostiory\C# Training\Training_delegate_form\Training_delegate_form\bin\Debug\Training_delegate_form.exe.config
+D:\Repostiory\C# Training\Training_delegate_form\Training_delegate_form\obj\Debug\Training_delegate_form.exe
+D:\Repostiory\C# Training\Training_delegate_form\Training_delegate_form\obj\Debug\Training_delegate_form.pdb
