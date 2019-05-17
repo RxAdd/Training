@@ -1,0 +1,31 @@
+D:\Project\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Project\Timer\Timer\bin\Debug\Timer.exe
+D:\Project\Timer\Timer\bin\Debug\Timer.pdb
+D:\Project\Timer\Timer\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Project\Timer\Timer\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Project\Timer\Timer\obj\Debug\UserControl2.g.cs
+D:\Project\Timer\Timer\obj\Debug\UserControl3.g.cs
+D:\Project\Timer\Timer\obj\Debug\UserControl4.g.cs
+D:\Project\Timer\Timer\obj\Debug\Timer_MarkupCompile.cache
+D:\Project\Timer\Timer\obj\Debug\Timer_MarkupCompile.lref
+D:\Project\Timer\Timer\obj\Debug\UserControl2.baml
+D:\Project\Timer\Timer\obj\Debug\UserControl3.baml
+D:\Project\Timer\Timer\obj\Debug\UserControl4.baml
+D:\Project\Timer\Timer\obj\Debug\Timer.g.resources
+D:\Project\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\Project\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Project\Timer\Timer\obj\Debug\Timer.UserControl1.resources
+D:\Project\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\Project\Timer\Timer\obj\Debug\Timer.exe
+D:\Project\Timer\Timer\obj\Debug\Timer.pdb
+D:\Repostiory\C# Training\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Repostiory\C# Training\Timer\Timer\obj\Debug\Timer.exe
+D:\Repostiory\C# Training\Timer\Timer\obj\Debug\Timer.pdb

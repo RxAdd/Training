@@ -1,0 +1,85 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Timer"
+             xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="Timer.UserControl3"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Viewbox Stretch="Fill">
+        <Grid x:Name="grid" Height="300" Width="300">
+            <ed:RegularPolygon x:Name="Rec1" Fill="#FFE8E8E8" Height="174.881" InnerRadius="1" Margin="113.889,-48.04,133.913,0" PointCount="6" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+            <ed:RegularPolygon x:Name="Rec3" Fill="#FFE8E8E8" InnerRadius="1" Margin="115.389,62.96,132.413,62.159" PointCount="6" Stretch="Fill" Stroke="Black" RenderTransformOrigin="0.5,0.5">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+            <ed:RegularPolygon x:Name="Rec5" Fill="#FFE8E8E8" Height="174.881" InnerRadius="1" Margin="115.389,0,132.413,-47.841" PointCount="6" Stretch="Fill" Stroke="Black" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+            <ed:RegularPolygon x:Name="Rec2" Fill="#FFE8E8E8" InnerRadius="1" Margin="0,48.96,45.413,0" PointCount="6" Stretch="Fill" Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="52.198" Height="90.381" VerticalAlignment="Top">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+            <ed:RegularPolygon x:Name="Rec4" Fill="#FFE8E8E8" InnerRadius="1" Margin="0,0,46.413,49.159" PointCount="6" Stretch="Fill" Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="52.198" Height="90.381" VerticalAlignment="Bottom">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+            <ed:RegularPolygon x:Name="Rec7" Fill="#FFE8E8E8" InnerRadius="1" Margin="30.889,50.46,0,0" PointCount="6" Stretch="Fill" Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="52.198" Height="90.381" VerticalAlignment="Top">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+            <ed:RegularPolygon x:Name="Rec6" Fill="#FFE8E8E8" InnerRadius="1" Margin="29.889,0,0,48.659" PointCount="6" Stretch="Fill" Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="52.198" Height="90.381" VerticalAlignment="Bottom">
+                <ed:RegularPolygon.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:RegularPolygon.RenderTransform>
+            </ed:RegularPolygon>
+
+        </Grid>
+    </Viewbox>
+</UserControl>
